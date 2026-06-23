@@ -1,0 +1,6 @@
+name: local-dev-fixture
+description: Public fixture agent for aachat local development.
+config:
+  packages: {}
+  networking:
+    type: unrestricted
